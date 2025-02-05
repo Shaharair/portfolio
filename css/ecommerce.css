@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+/* ecommerce part start */
+
+#ecommerce{
+    background-color: black;
+    padding: 50px 0;
+}
+
+.ecommerce-heading h3{
+    font-family: "Poppins", serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: #009e66;
+    text-align: center;
+}
+
+.ecommerce-project{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.ecommerce-website{
+    display: flex;
+    align-items: center;
+}
+
+.ecommerce-website i{
+    font-size: 24px;
+    color: white;
+}
+
+.ecommerce-website h5{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-left: 20px;
+}
+
+.ecommerce-two{
+    display: flex;
+    padding-top: 30px;
+    align-items: center;
+}
+
+.ecommerce-two i{
+    font-size: 24px;
+    color: white;
+}
+
+.ecommerce-two h5{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-left: 20px;
+}
+
+.ecommerce-client{
+    display: flex;
+    align-items: center;
+}
+
+.ecommerce-client i{
+    font-size: 24px;
+    color: white;
+}
+
+.ecommerce-client h5{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-left: 20px;
+}
+
+.ecommerce-prev{
+    display: flex;
+    padding-top: 30px;
+    align-items: center;
+}
+
+.ecommerce-prev i{
+    font-size: 24px;
+    color: white;
+}
+
+.ecommerce-prev h5{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-left: 20px;
+}
+
+.ecommerce-images a img{
+    margin-left: 180px;
+    padding-top: 50px;
+}
+
+/* ecommerce part end */

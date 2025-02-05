@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+/* banner part start */
+
+#banner{
+    background-color: black;
+    padding: 50px 0;
+}
+
+.banner-heading h3{
+    font-family: "Poppins", serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #009e66;
+    text-align: center;
+}
+
+.figma-banner{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.figma-code{
+    display: flex;
+    align-items: center;
+}
+
+.figma-code i{
+    font-size: 24px;
+    color: white;
+}
+
+.figma-code h5{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-left: 20px;
+}
+
+.figma-lang{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.figma-lang i{
+    font-size: 24px;
+    color: white;
+}
+
+.figma-lang h5{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-left: 20px;
+}
+
+.figma_banner_one{
+    display: flex;
+    align-items: center;
+}
+
+.figma_banner_one i{
+    font-size: 24px;
+    color: white;
+}
+
+.figma_banner_one h5{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-left: 20px;
+}
+
+.figma_banner_two{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.figma_banner_two i{
+    font-size: 24px;
+    color: white;
+}
+
+.figma_banner_two h5{
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-left: 20px;
+}
+
+.figma-images a img{
+    width: 100%;
+    padding-top: 50px;
+}
+
+/* banner part end */

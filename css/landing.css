@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+/* landing part start */
+
+#landing {
+    background-color: black;
+    padding: 50px 0;
+}
+
+.landing-heading h3 {
+    font-family: "Poppins", serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: #009e66;
+    text-align: center;
+}
+
+.landing-banner {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.landing-code {
+    display: flex;
+    align-items: center;
+}
+
+.landing-code i {
+    font-size: 24px;
+    color: white;
+}
+
+.landing-code h5 {
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-left: 20px;
+}
+
+.landing-lang {
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.landing-lang i {
+    font-size: 24px;
+    color: white;
+}
+
+.landing-lang h5 {
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-left: 20px;
+}
+
+.landing-client {
+    display: flex;
+    align-items: center;
+}
+
+.landing-client i {
+    font-size: 24px;
+    color: white;
+}
+
+.landing-client h5 {
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-left: 20px;
+}
+
+.landing-prev {
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.landing-prev i {
+    font-size: 24px;
+    color: white;
+}
+
+.landing-prev h5 {
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    margin-left: 20px;
+}
+
+.landing-images a img {
+    margin-left: 220px;
+    padding-top: 50px;
+}
+
+/* landing part end */
